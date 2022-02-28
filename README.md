@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Patrick Velasco. Welcome to my GitHub Account!
-(https://komarev.com/ghpvc/?username=ScriptHubs=red)
+My name is Patrick Velasco. Welcome to my GitHub Account!<br><br>
+![counter](https://komarev.com/ghpvc/?username=ScriptHubs)
