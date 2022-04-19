@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 My name is Patrick Velasco. Welcome to my GitHub Account!<br><br>
 ![counter](https://komarev.com/ghpvc/?username=ScriptHubs)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptHubs)](https://github.com/anuraghazra/github-readme-stats)
