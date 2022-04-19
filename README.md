@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 My name is Patrick Velasco. Welcome to my GitHub Account!<br><br>
 ![counter](https://komarev.com/ghpvc/?username=ScriptHubs)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScriptHubs)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptHubs)](https://github.com/anuraghazra/github-readme-stats)
