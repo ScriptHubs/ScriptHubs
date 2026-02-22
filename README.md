@@ -1,16 +1,20 @@
 # 👋 Hi, I'm Patrick Vince Velasco
 
-I am a **Full Stack Software Engineer** dedicated to building high-performance web applications. I specialize in the **Laravel** ecosystem and **React**, focusing on clean architecture and seamless user experiences.
+I am a **Full Stack Software Engineer** specializing in the **Laravel** ecosystem and **React**. I build scalable, high-performance web applications with a focus on clean code and intuitive design.
 
 ---
 
-### 🛠️ Technical Expertise
+### 🛠️ Tech Stack & Tools
 
-- **Backend:** PHP, Laravel, MySQL, REST APIs
-- **Frontend:** JavaScript (ES6+), TypeScript, React, Vite, CSS3
-- **Tools:** Git, Vercel, Performance Optimization, SEO (JSON-LD)
+![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,ts,react,vite,css,tailwind,git,vite,vercel)
 
-### 📫 Contact & Socials
+- **Backend:** `PHP` • `Laravel` • `MySQL`
+- **Frontend:** `React` • `TypeScript` • `JavaScript` • `Vite` • `CSS3`
+- **Infrastructure:** `Vercel` • `Git` • `SEO`
+
+---
+
+### 📫 Connect with Me
 
 - 🌍 **Portfolio:** [patrickvvelasco.vercel.app](https://patrickvvelasco.vercel.app/)
 - 💼 **LinkedIn:** [in/patrickvvelasco](https://linkedin.com/in/patrickvvelasco)
@@ -18,17 +22,4 @@ I am a **Full Stack Software Engineer** dedicated to building high-performance w
 
 ---
 
-### � GitHub Activity
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ScriptHubs&show_icons=true&theme=transparent&hide_border=true&title_color=A3846C&icon_color=A3846C&text_color=777" alt="GitHub Stats" height="150" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScriptHubs&theme=transparent&hide_border=true&stroke=A3846C&fire=A3846C&ring=A3846C&currStreakLabel=A3846C" alt="GitHub Streak" height="150" />
-  </a>
-</p>
-
----
-
-*⚡ "Transforming complex logic into elegant digital solutions."*
+*⚡ "Engineering solutions that bridge the gap between complex logic and clean design."*
